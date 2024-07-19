@@ -1,0 +1,18 @@
+
+.btn {
+    padding: 0.3rem 2rem;
+    transition: 0.3s;
+    cursor: pointer;
+    color: var(--light-gray-3);
+    /* font-size: 1rem; */
+    /* letter-spacing: 0.075rem; */
+}
+
+/* Cores dos botões */
+.btn-default {
+    background-color: var(--primary);
+}
+
+.btn-default {
+    background-color: var(--tertiary);
+}

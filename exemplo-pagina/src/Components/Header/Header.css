@@ -1,0 +1,10 @@
+
+.logotipo {
+    display: flex;
+
+    color: var(--primary);
+
+    /* background-color: blue; */
+
+    border: solid 1px blueviolet;
+}
